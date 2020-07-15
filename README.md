@@ -17,7 +17,8 @@
 
 <br/>
 
-I'm a backend web developer currently pursuing B.Tech in **CSE** from VIT Vellore. Currently I am exploring the field of AI & ML🔍. I also 🖋 articles on [**medium**](https://medium.com/@suraj.v). Apart from this I love watching anime and do coding💻.<br>
+I'm a backend web developer currently pursuing B.Tech in **CSE** from VIT Vellore. Currently I am exploring the field of AI & ML🔍.<br>
+I do 🖋 articles on [**medium**](https://medium.com/@suraj.v). Apart from this I love watching anime and do coding💻.<br>
 
 * I am also working on to improve my frontend development skills.
 <br>
