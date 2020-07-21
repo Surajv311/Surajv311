@@ -21,6 +21,7 @@ I'm a backend web developer currently pursuing B.Tech in **CSE** from VIT Vellor
 I do 🖋 articles on [**medium**](https://medium.com/@suraj.v). Apart from this I love watching anime and do coding💻.<br>
 
 * I am also working on to improve my frontend development skills.
+* Currently working on building up a blog website.
 <br>
 
 
