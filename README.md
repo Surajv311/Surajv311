@@ -24,11 +24,18 @@ I do 🖋 articles on [**medium**](https://medium.com/@suraj.v). Apart from this
 * Currently working on building up a blog website.
 <br>
 
-*Top Languages* is the github metric of languages used in my repos.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&theme=tokyonight" alt="Suraj_v's github stats"/>
+</a>
 
-![Suraj_v's github stats](https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight" alt="Suraj_v's github stats" />
+</a>
+
+**Note** : *Top Languages* is the github metric of languages used in my repos.
+
+<br>
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
