@@ -24,11 +24,11 @@ I do 🖋 articles on [**medium**](https://medium.com/@suraj.v). Apart from this
 * Currently working on building up a blog website.
 <br>
 
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&theme=tokyonight" alt="Suraj_v's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&theme=tokyonight&layout=compact" alt="Suraj_v's github stats"/>
 </a>
-
+-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="Suraj_v's github stats" />
 </a>
