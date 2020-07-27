@@ -33,7 +33,7 @@ I do 🖋 articles on [**medium**](https://medium.com/@suraj.v). Apart from this
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="Suraj_v's github stats" />
 </a>
 
-**Note** : *Top Languages* is the github metric of languages used in my repos.
+<!-- **Note** : *Top Languages* is the github metric of languages used in my repos. -->
 
 <br>
 
