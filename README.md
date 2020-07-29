@@ -10,7 +10,11 @@
 </a>
 
 <a href="https://medium.com/@suraj.v">
-  <img align="left" alt="SurajVerma-Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="SurajVerma-Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+<a href="https://hashnode.com/@Surajv">
+  <img align="left" alt="SurajVerma-hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Surajv311.Surajv311)
@@ -18,7 +22,7 @@
 <br/>
 
 I'm a backend web developer currently pursuing B.Tech in **CSE** from VIT Vellore. Currently I am exploring the field of AI & ML🔍.<br>
-I do 🖋 articles on [**medium**](https://medium.com/@suraj.v). Apart from this I love watching anime and do coding💻.<br>
+I do 🖋 articles on [**dev.to**](https://dev.to/surajv). Apart from this I love watching anime and do coding💻.<br>
 
 * I am also working on to improve my frontend development skills.
 * Currently working on building up a blog website.
@@ -33,10 +37,11 @@ I do 🖋 articles on [**medium**](https://medium.com/@suraj.v). Apart from this
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="Suraj_v's github stats" />
 </a>
 
+<br>
+
 <!-- **Note** : *Top Languages* is the github metric of languages used in my repos. -->
 
 <br>
-
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
