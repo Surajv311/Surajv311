@@ -18,7 +18,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Surajv311.Surajv311)
-![](https://img.shields.io/badge/contributor-NeoAlgo-blue)
+<!--![](https://img.shields.io/badge/contributor-NeoAlgo-blue)-->
 <br/>
 
 I'm a backend web developer currently pursuing B.Tech in **CSE** from VIT Vellore. Currently I am exploring the field of AI & ML🔍.<br>
