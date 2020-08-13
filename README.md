@@ -35,6 +35,7 @@ I do 🖋 articles on [**dev.to**](https://dev.to/surajv). Apart from this I lov
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="Suraj_v's github stats" />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&layout=compact&theme=tokyonight">
 </a>
 
 <br>
