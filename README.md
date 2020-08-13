@@ -32,7 +32,7 @@ I love contributing to Open Source projects & , 🖋 technical blogs is my pasti
 <details open>
 <summary>🚀 <b>Skills</b>:</summary>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%23F05033.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -51,16 +51,17 @@ I love contributing to Open Source projects & , 🖋 technical blogs is my pasti
 
 <details open>
   <summary>📈 <b>Github Stats</b>:</summary>
+  
   <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="Suraj_v's github 
-  stats" />
+  
+  <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight&hide=stars">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&layout=compact&theme=tokyonight&hide=css,html">
   </p>
 
 </details>
 
-<br>
+
 
 ---
 
