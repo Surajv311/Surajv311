@@ -3,7 +3,7 @@
 ---
 
 A sophomore year computer science undergrad from VIT Vellore. I'm a web developer && ML enthusiast.<br>
-I love contributing to Open Source projects & 🖋 technical blogs is my pastime!  <br>
+I love contributing to Open Source projects &, 🖋 technical blogs is my pastime!  <br>
 <Sometimes, I play football & watch anime :)>
 
 - 👨🏽‍💻 I’m currently working on my **portfolio website**.
