@@ -1,60 +1,73 @@
-### Hello friend 👋 I'm Suraj !
-<br/>
-
-<a href="https://twitter.com/imsurajv">
-  <img align="left" alt="SurajVerma-Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/surajverma-sv/">
-  <img align="left" alt="SurajVerma-Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://medium.com/@suraj.v">
-  <img align="left" alt="SurajVerma-Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
-<a href="https://hashnode.com/@Surajv">
-  <img align="left" alt="SurajVerma-hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=Surajv311.Surajv311)
-<!--![](https://img.shields.io/badge/contributor-NeoAlgo-blue)-->
-<br/>
-
-I'm a backend web developer currently pursuing B.Tech in **CSE** from VIT Vellore. Currently I am exploring the field of AI & ML🔍.<br>
-I do 🖋 articles on [**dev.to**](https://dev.to/surajv). Apart from this I love watching anime and do coding💻.<br>
-
-* I am also working on to improve my frontend development skills.
-* Currently working on building up a blog website.
+### Hi! 👋🏽 I'm Suraj :)
 <br>
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&theme=tokyonight&layout=compact" alt="Suraj_v's github stats"/>
-</a>
--->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="Suraj_v's github stats" />
+---
 
-</a>
+A sophomore year computer science undergrad from VIT Vellore. I'm a web developer && ML enthusiast.<br>
+I love contributing to Open Source projects & 🖋 technical blogs is my pastime!  <br>
+<Sometimes, I play football & watch anime :)>
+
+- 👨🏽‍💻 I’m currently working on my **portfolio website**.
+- 📚 I’m currently learning **React.js**.
+- 🤝🏽 I’m open to collaborate on **Web dev** & **ML projects**.
+- 💬 Ask me about anything! Feel free 😊.
+- 😄 Pronouns: He/Him👨🏽.
+- ⚡ Fun fact: Sometimes I code, rest Stackoverflow :).
+- 🌐 Checkout my Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
+
+<details open>
+<summary>☎️ <b>Wanna connect with me ?<b></summary>
+
+<p align = "center">
+  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/surajverma-sv)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imsurajv) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@suraj.v)
+[<img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/surajv)
+
+</p>
+</details>
+
+---
+
+<details open>
+<summary>🚀 <b>Skills</b>:</summary>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%23F05033.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodejs-%23007ACC.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb-%2361DAFB.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+</details>
 
 <br>
 
-<!-- **Note** : *Top Languages* is the github metric of languages used in my repos. -->
+<details open>
+  <summary>📈 <b>Github Stats</b>:</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="Suraj_v's github 
+  stats" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&layout=compact&theme=tokyonight">
+  </p>
+
+</details>
 
 <br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+---
+
+
+
+
 
 
 
