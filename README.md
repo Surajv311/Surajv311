@@ -11,7 +11,7 @@ I love contributing to Open Source projects & , 🖋 technical blogs is my pasti
 - 🤝🏽 I’m open to collaborate on **Web dev** & **ML projects**.
 - 💬 Ask me about anything! Feel free 😊.
 - 😄 Pronouns: He/Him👨🏽.
-- ⚡ Fun fact: I code without coffee!
+- ⚡ Fun fact: I code for water :).
 - 🌐 Checkout my Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
 
 <details open>
