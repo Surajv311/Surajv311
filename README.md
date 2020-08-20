@@ -6,7 +6,7 @@ A sophomore year computer science undergrad from VIT Vellore. I'm a web develope
 I love contributing to Open Source projects & , 🖋 technical blogs is my pastime!  <br>
 <Sometimes, I play football & watch anime :)>
 
-- 👨🏽‍💻 I’m currently working on a **React based project**.
+- 👨🏽‍💻 I’m currently working on a **Web project**.
 - 📚 I’m currently learning **React.js**.
 - 🤝🏽 I’m open to collaborate on **Web dev** & **ML projects**.
 - 💬 Ask me about anything! Feel free 😊.
