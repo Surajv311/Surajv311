@@ -66,7 +66,7 @@ I love contributing to Open Source projects & , 🖋 technical blogs is my pasti
 
 ---
 
-
+[![Visits Badge](https://badges.pufler.dev/visits/Surajv311/Surajv311?style=for-the-badge&color=orange)](https://github.com/Surajv311/Surajv311)
 
 
 
