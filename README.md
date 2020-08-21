@@ -6,13 +6,14 @@ A sophomore year computer science undergrad from VIT Vellore. I'm a web develope
 I love contributing to Open Source projects & , 🖋 technical blogs is my pastime!  <br>
 <Sometimes, I play football & watch anime :)>
 
-- 👨🏽‍💻 I’m currently working on a **Web project**.
+- 👨🏽‍💻 I’m currently working on a **Web based project**.
 - 📚 I’m currently learning **React.js**.
 - 🤝🏽 I’m open to collaborate on **Web dev** & **ML projects**.
 - 💬 Ask me about anything! Feel free 😊.
 - 😄 Pronouns: He/Him👨🏽.
 - ⚡ Fun fact: I code for water :).
-- 🌐 Checkout my Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
+- 📜 Read my Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
+- 🌐 Checkout my portfolio [**here**](https://surajv311.github.io/).
 
 <details open>
 <summary>☎️ <b>Wanna connect with me ?<b></summary>
