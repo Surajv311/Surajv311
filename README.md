@@ -14,6 +14,7 @@ I love contributing to Open Source projects & , 🖋 technical blogs is my pasti
 - ⚡ Fun fact: I code for water :).
 - 📜 Read my Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
 - 🌐 Checkout my portfolio [**here**](https://surajv311.github.io/).
+- 📫 Email me -> [**here**](mailto:vsuraj2405@gmail.com).
 
 <details open>
 <summary>☎️ <b>Wanna connect with me ?<b></summary>
