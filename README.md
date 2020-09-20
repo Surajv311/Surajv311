@@ -2,7 +2,7 @@
 
 ---
 
-A sophomore year computer science undergrad from VIT Vellore. I'm a web developer && ML enthusiast.<br>
+A sophomore year computer science undergrad from VIT Vellore. I'm a Web Developer && ML enthusiast.<br>
 I love contributing to Open Source projects & , 🖋 technical blogs are my pastime!  <br>
 <Sometimes, I play football⚽ & watch anime🐱‍👤 :)>
 
