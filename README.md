@@ -13,7 +13,8 @@ I love contributing to Open Source projects & , 🖋 technical blogs are my past
 - 😄 Pronouns: He/Him👨🏽.
 - ⚡ Fun fact: I code for water :).
 - 📜 Read my Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
-- 🌐 Checkout my portfolio [**here**](https://surajv311.github.io/).
+- 👨🏾‍🏫 Checkout my course [**here**](https://www.udemy.com/course/numpyfords).
+- 🌐 Visit my portfolio [**here**](https://surajv311.github.io/).
 <!--
 - 📫 Email me -> [**here**](mailto:mail@mail.com).
 -->
