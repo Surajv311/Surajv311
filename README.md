@@ -14,7 +14,7 @@ I love contributing to Open Source projects & , 🖋 technical blogs are my past
 - ⚡ Fun fact: I code for water :).
 - 📜 Read my Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
 - 👨🏾‍🏫 Checkout my course [**here**](https://www.udemy.com/course/numpyfords).
-- 🌐 Visit my portfolio [**here**](https://surajv311.github.io/).
+- 🌐 Visit my portfolio [**here**](https://surajverma.netlify.app/).
 <!--
 - 📫 Email me -> [**here**](mailto:mail@mail.com).
 -->
