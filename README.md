@@ -2,19 +2,17 @@
 
 ---
 
-A sophomore year computer science undergrad from VIT Vellore. I'm a Web Developer, Instructor && ML enthusiast.<br>
+A sophomore year computer science undergrad from VIT Vellore. I'm a MERN stack Web Developer, Instructor && ML enthusiast.<br>
 I love contributing to Open Source projects & , 🖋 technical blogs are my pastime!  <br>
-<Sometimes, I play football⚽ & watch anime🐱‍👤 :)>
 
-- 👨🏽‍💻 I’m currently working on a **Web based project**.
-- 📚 I’m currently learning **React.js**.
+- 👨🏽‍💻 I’m currently working on a **P.W.A**.
+- 📚 I’m currently learning **Docker**.
 - 🤝🏽 I’m open to collaborate on **Web dev** & **ML projects**.
-- 💬 Ask me about anything! Feel free 😊.
 - 😄 Pronouns: He/Him👨🏽.
-- ⚡ Fun fact: I code for water :).
-- 📜 Read my Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
+- ⚡ Fun fact: I love eating cookies.
 - 👨🏾‍🏫 Checkout my course [**here**](https://www.udemy.com/course/numpyfords).
 - 🌐 Visit my portfolio [**here**](https://surajverma.netlify.app/).
+- 💬 Ask me about anything! Feel free 😊.
 <!--
 - 📫 Email me -> [**here**](mailto:mail@mail.com).
 -->
@@ -25,9 +23,7 @@ I love contributing to Open Source projects & , 🖋 technical blogs are my past
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/surajverma-sv)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imsurajv) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@suraj.v)
-[<img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/surajv)
-
+[<img src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vsuraj2405@gmail.com) 
 </p>
 </details>
 
@@ -41,18 +37,16 @@ I love contributing to Open Source projects & , 🖋 technical blogs are my past
 <p align="left">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%23F05033.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/nodejs-%23007ACC.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/expressjs-%23007ACC.svg?&style=for-the-badge&logo=expressjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/reactjs-%23E34F26.svg?&style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-%2361DAFB.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
 
 </p>
-
 </details>
-
 <br>
 
 <details open>
@@ -70,10 +64,28 @@ I love contributing to Open Source projects & , 🖋 technical blogs are my past
 
 ---
 
+
+<table><tr><td valign="top" width="50%">
+
+### My Blog Collections 🛒
+
+📜 Read my Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
+- [5 mistakes that can be avoided as a beginner in FOSS contribution!](https://surajv.hashnode.dev/5-mistakes-that-can-be-avoided-as-a-beginner-in-foss-contribution-ckf7q8b2800wm6ds1gpje76du)
+- [Git/Github in a nutshell!](https://surajv.hashnode.dev/gitgithub-in-a-nutshell-ckdlszxej04wszzs1cztj5ut1)
+- [Is Codespaces going to replace Gitpod?](https://surajv.hashnode.dev/is-codespaces-going-to-replace-gitpod-ckeqxhuta00xq01s11a0a1nya)
+- [OOPS! Did you know that?](https://surajv.hashnode.dev/oops-did-you-know-that-ckfdjlq8k0a5k2zs1g05jhs9i)
+</td>
+<td valign="top" width="50%">
+
+### My Repo Collections 🛒
+⌨ Check out my favourite repos [**here**](https://github.com/Surajv311).
+- [npm_package-getrstr](https://github.com/Surajv311/npm_package-getrstr)
+- [My_chrome_extension](https://github.com/Surajv311/my_chrome_extension)
+- [Programs_for_College_Students](https://github.com/Surajv311/Programs_for_College_Students)
+- [Programming_Practice](https://github.com/Surajv311/CP-DSA-C..py-java)
+</td>
+
 [![Visits Badge](https://badges.pufler.dev/visits/Surajv311/Surajv311?style=for-the-badge&color=orange)](https://github.com/Surajv311/Surajv311)
-
-
-
 
 
 <!--
