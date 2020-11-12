@@ -6,7 +6,7 @@ A sophomore year computer science undergrad from VIT Vellore. I'm a MERN stack W
 I love contributing to Open Source projects & , 🖋 technical blogs are my pastime!  <br>
 
 - 👨🏽‍💻 I’m currently working on a **P.W.A**.
-- 📚 I’m currently learning **Docker**.
+- 📚 I’m currently learning **GraphQL**.
 - 🤝🏽 I’m open to collaborate on **Web dev** & **ML projects**.
 - 😄 Pronouns: He/Him👨🏽.
 - ⚡ Fun fact: I love eating cookies.
