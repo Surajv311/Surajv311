@@ -12,7 +12,7 @@ I love contributing to Open Source projects & , 🖋 technical blogs are my past
 - ⚡ Fun fact: I love eating cookies.
 - 👨🏾‍🏫 Checkout my course [**here**](https://www.udemy.com/course/numpyfords).
 - 🌐 Visit my portfolio [**here**](https://surajverma.netlify.app/).
-- 💬 Ask me about anything! Feel free 😊.
+- 💬 Ask me about anything related to tech!😊.
 <!--
 - 📫 Email me -> [**here**](mailto:mail@mail.com).
 -->
