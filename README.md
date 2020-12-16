@@ -83,7 +83,7 @@ I love contributing to Open Source projects & , 🖋 technical blogs are my past
 ⌨ Check out my favourite repos [**here**](https://github.com/Surajv311).
 - [npm_package-getrstr](https://github.com/Surajv311/npm_package-getrstr)
 - [My_chrome_extension](https://github.com/Surajv311/my_chrome_extension)
-- [Student_Opportunities (in progress)](https://github.com/Surajv311/Programs_for_College_Students)
+- [Student_Opportunities (in progress)](https://github.com/Surajv311/Student_Opportunities)
 - [Programming_Practice (in progress)](https://github.com/Surajv311/CP-DSA-C..py-java)
 </td>
 
