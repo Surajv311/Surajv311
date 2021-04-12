@@ -2,14 +2,14 @@
 
 ------------------------------
 
-I'm currently pursuing my B.Tech in Computer Science from Vellore Institute of Technology, Vellore 🎓. I'm a MERN Stack Web Developer who loves contributing to open-source projects💻. In my spare time, you may find me exploring the field of ML or mentoring students or writing blogs🖊.   
+I'm currently pursuing my B.Tech in Computer Science from Vellore Institute of Technology, Vellore 🎓. I'm a MERN Stack Web Developer who loves contributing to open-source projects💻. In my spare time, you may find me exploring the field of ML or mentoring students, or writing blogs🖊.   
 
 - 👨🏽‍💻 I’m currently working on a **P.W.A**.
 - 📚 I’m currently learning **GraphQL**.
-- 🤝🏽 I’m open to collaborate on **Web Dev** projects.
+- 🤝🏽 I’m open to collaborating on **Web Dev** projects.
 - 😄 Pronouns: He/Him👨🏽.
 - ⚡ Fun fact: I love watching anime. 
-- 👨🏾‍🏫 Checkout my instructed course [**here**](https://www.udemy.com/course/numpyfords).
+- 👨🏾‍🏫 Check out my instructed course [**here**](https://www.udemy.com/course/numpyfords).
 - 🌐 Visit my portfolio [**here**](https://surajverma.netlify.app/).
 - 💬 Ask me about anything related to tech!😊.
 <!--
