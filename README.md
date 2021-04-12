@@ -1,24 +1,47 @@
 ### Hi! 👋🏽 I'm Suraj 🤓.
 
----
+------------------------------
 
-A sophomore year computer science undergrad from VIT Vellore. I'm a MERN stack Web Developer, Instructor && ML enthusiast.<br>
-I love contributing to Open Source projects & , 🖋 technical blogs are my pastime!  <br>
+I'm currently pursuing my B.Tech in Computer Science from Vellore Institute of Technology, Vellore 🎓. I'm a MERN Stack Web Developer who loves contributing to open-source projects💻. In my spare time, you may find me exploring the field of ML or mentoring students or writing blogs🖊.   
 
 - 👨🏽‍💻 I’m currently working on a **P.W.A**.
 - 📚 I’m currently learning **GraphQL**.
-- 🤝🏽 I’m open to collaborate on **Web dev** & **ML projects**.
+- 🤝🏽 I’m open to collaborate on **Web Dev** projects.
 - 😄 Pronouns: He/Him👨🏽.
-- ⚡ Fun fact: I love eating cookies.
-- 👨🏾‍🏫 Checkout my course [**here**](https://www.udemy.com/course/numpyfords).
+- ⚡ Fun fact: I love watching anime. 
+- 👨🏾‍🏫 Checkout my instructed course [**here**](https://www.udemy.com/course/numpyfords).
 - 🌐 Visit my portfolio [**here**](https://surajverma.netlify.app/).
 - 💬 Ask me about anything related to tech!😊.
 <!--
 - 📫 Email me -> [**here**](mailto:mail@mail.com).
 -->
-<details open>
-<summary>☎️ <b>Wanna connect with me ?<b></summary>
 
+------------------------------
+
+<details open>
+<summary>🚀 <b>Skills</b>:</summary>
+
+ <br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%23F05033.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mongodb-%2361DAFB.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/expressjs-%23007ACC.svg?&style=for-the-badge&logo=expressjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/reactjs-%23E34F26.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodejs-%23007ACC.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
+
+</p>
+</details>
+
+------------------------
+
+<details open>
+<summary>☎️ <b>Get in touch?<b></summary>
+<br>
 <p align = "center">
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/surajverma-sv)
@@ -29,27 +52,7 @@ I love contributing to Open Source projects & , 🖋 technical blogs are my past
 </p>
 </details>
 
----
-
-<details open>
-<summary>🚀 <b>Skills</b>:</summary>
-
-  <br>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-%23F05033.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nodejs-%23007ACC.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/expressjs-%23007ACC.svg?&style=for-the-badge&logo=expressjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/reactjs-%23E34F26.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mongodb-%2361DAFB.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
-
-</p>
-</details>
-<br>
+----------------------
 
 <details open>
   <summary>📈 <b>Github Stats</b>:</summary>
@@ -63,32 +66,36 @@ I love contributing to Open Source projects & , 🖋 technical blogs are my past
 
 </details>
 
-
----
-
+----------------------------
 
 <table><tr><td valign="top" width="50%">
 
-### My Blog Collections 🛒
+### Blog Collections 🛒
 
-📜 Read my Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
+📜 Read my Tech Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
 - [5 mistakes that can be avoided as a beginner in FOSS contribution!](https://surajv.hashnode.dev/5-mistakes-that-can-be-avoided-as-a-beginner-in-foss-contribution-ckf7q8b2800wm6ds1gpje76du)
 - [Git/Github in a nutshell!](https://surajv.hashnode.dev/gitgithub-in-a-nutshell-ckdlszxej04wszzs1cztj5ut1)
 - [Is Codespaces going to replace Gitpod?](https://surajv.hashnode.dev/is-codespaces-going-to-replace-gitpod-ckeqxhuta00xq01s11a0a1nya)
-- [OOPS! Did you know that?](https://surajv.hashnode.dev/oops-did-you-know-that-ckfdjlq8k0a5k2zs1g05jhs9i)
+
+📜 Read my Misc. Blogs @ [**Medium**](https://surajsv.medium.com/).
+- [USSR- history of history!](https://surajsv.medium.com/ussr-history-of-history-39f9a84d71d2)
+- [Amazon's Supply Chain](https://surajsv.medium.com/how-amazon-is-incorporating-technology-in-the-management-of-its-supply-chain-4f2f713f4c5d)
 </td>
 <td valign="top" width="50%">
 
-### My Repo Collections 🛒
-⌨ Check out my favourite repos [**here**](https://github.com/Surajv311).
-- [npm_package-getrstr](https://github.com/Surajv311/npm_package-getrstr)
-- [My_chrome_extension](https://github.com/Surajv311/my_chrome_extension)
-- [Student_Opportunities (in progress)](https://github.com/Surajv311/Student_Opportunities)
-- [Programming_Practice (in progress)](https://github.com/Surajv311/CP-DSA-C..py-java)
+### Repo. Collections 🛒
+⌨ When I tried something new!😬.
+- [npm package-getrstr](https://github.com/Surajv311/npm_package-getrstr)
+- [chrome extension for social media](https://github.com/Surajv311/my_chrome_extension)
+- [How to write README.md file](https://github.com/Surajv311/How-to-write-a-readme-file)
+- [Useful Resources collection - one4All](https://github.com/Surajv311/one4All)
+- [Programming-Practice (in progress)](https://github.com/Surajv311/myProgramming)
+
 </td>
 
 [![Visits Badge](https://badges.pufler.dev/visits/Surajv311/Surajv311?style=for-the-badge&color=orange)](https://github.com/Surajv311/Surajv311)
 
+----------------------------
 
 <!--
 **Surajv311/Surajv311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
