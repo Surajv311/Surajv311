@@ -68,12 +68,12 @@ I'm currently pursuing my B.Tech in Computer Science from Vellore Institute of T
 
 ----------------------------
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 
 ### Blog Collections 🛒
 
 📜 Read my Tech Blogs @ [**Hashnode**](https://surajv.hashnode.dev/).
-- [5 mistakes that can be avoided as a beginner in FOSS contribution!](https://surajv.hashnode.dev/5-mistakes-that-can-be-avoided-as-a-beginner-in-foss-contribution-ckf7q8b2800wm6ds1gpje76du)
+- [Beginner mistakes to avoid in FOSS contribution!](https://surajv.hashnode.dev/5-mistakes-that-can-be-avoided-as-a-beginner-in-foss-contribution-ckf7q8b2800wm6ds1gpje76du)
 - [Git/Github in a nutshell!](https://surajv.hashnode.dev/gitgithub-in-a-nutshell-ckdlszxej04wszzs1cztj5ut1)
 - [Is Codespaces going to replace Gitpod?](https://surajv.hashnode.dev/is-codespaces-going-to-replace-gitpod-ckeqxhuta00xq01s11a0a1nya)
 
@@ -81,7 +81,7 @@ I'm currently pursuing my B.Tech in Computer Science from Vellore Institute of T
 - [USSR- history of history!](https://surajsv.medium.com/ussr-history-of-history-39f9a84d71d2)
 - [Amazon's Supply Chain](https://surajsv.medium.com/how-amazon-is-incorporating-technology-in-the-management-of-its-supply-chain-4f2f713f4c5d)
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 ### Repo. Collections 🛒
 ⌨ When I tried something new!😬.
