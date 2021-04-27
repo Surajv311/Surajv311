@@ -61,7 +61,7 @@ I'm currently pursuing my B.Tech in Computer Science from Vellore Institute of T
   
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&theme=tokyonight&hide=css,html&layout=">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&theme=tokyonight&hide=css,html,ejs,java&layout=">
   </p>
 
 </details>
