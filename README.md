@@ -1,26 +1,27 @@
-### Hi! 👋🏽 I'm Suraj 🤓.
+### Hi! 👋🏽 I'm Suraj.
 
 ------------------------------
 
-I'm currently pursuing my B.Tech in Computer Science from Vellore Institute of Technology, Vellore 🎓. I'm a MERN Stack Web Developer who loves contributing to open-source projects💻. In my spare time, you may find me exploring the field of ML or mentoring students, or writing blogs🖊.   
+I'm currently pursuing my Bachelor's in Computer Science from VIT University, India (batch of 2023) 🎓. <br>
+Why Computer Science? Because it makes me realize, how little I know about this field & there's just so much to learn!.<br>
+**Currently**: Software Engineer Intern @ [Simpl Pay](https://getsimpl.com/). <br>
+And I love reading blogs on back-end engineering. <br>  
 
-- 👨🏽‍💻 I’m currently working on **[one4All](https://github.com/Surajv311/one4All)** project.
-- 📚 I’m currently learning **DS-Algo**.
-- 🤝🏽 I’m open to collaborating on **Web Dev** projects.
 - 😄 Pronouns: He/Him👨🏽.
-- ⚡ Fun fact: I love watching anime. 
+- ⚡ Fun fact: I watch anime. 
 - 👨🏾‍🏫 Check out my instructed course [**here**](https://www.udemy.com/course/numpyfords).
+- 🖊 Check my blogs at [**Hashnode**](https://surajv.hashnode.dev/) & [**Medium**](https://surajsv.medium.com/).
 - 🌐 Visit my portfolio [**here**](https://surajverma.netlify.app/).
-- 💬 Ask me about anything related to tech!😊.
+- 💬 AMA related to tech!😊.
 <!--
 - 📫 Email me -> [**here**](mailto:mail@mail.com).
 -->
 
 ------------------------------
-
+<!-- 
 <details open>
 <summary>🚀 <b>Skills</b>:</summary>
-
+<p> Web Dev (MERN) & AWS. </p>
  <br>
 
 <p align="left">
@@ -32,12 +33,26 @@ I'm currently pursuing my B.Tech in Computer Science from Vellore Institute of T
     <img src="https://img.shields.io/badge/reactjs-%23E34F26.svg?&style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/nodejs-%23007ACC.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
   <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
+</details> -->
+
+<!-- ------------------------ -->
+
+<details open>
+  <summary>📈 <b>Github Stats</b>:</summary>
+  
+  <br>
+  
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&theme=tokyonight&hide=css,html,ejs,java,Dockerfile&layout=">
+  </p>
+
 </details>
 
-------------------------
+----------------------------
 
 <details open>
 <summary>☎️ <b>Get in touch?<b></summary>
@@ -54,21 +69,7 @@ I'm currently pursuing my B.Tech in Computer Science from Vellore Institute of T
 
 ----------------------
 
-<details open>
-  <summary>📈 <b>Github Stats</b>:</summary>
-  
-  <br>
-  
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surajv311&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&theme=tokyonight&hide=css,html,ejs,java,Dockerfile&layout=">
-  </p>
-
-</details>
-
-----------------------------
-
-<table><tr><td valign="top" width="60%">
+<!-- <table><tr><td valign="top" width="60%">
 
 ### Blog Collections 🛒
 
@@ -91,7 +92,7 @@ I'm currently pursuing my B.Tech in Computer Science from Vellore Institute of T
 - [Useful Resources collection - one4All](https://github.com/Surajv311/one4All)
 - [Programming-Practice (in progress)](https://github.com/Surajv311/myProgramming)
 
-</td>
+</td> -->
 
 [![Visits Badge](https://badges.pufler.dev/visits/Surajv311/Surajv311?style=for-the-badge&color=orange)](https://github.com/Surajv311/Surajv311)
 
