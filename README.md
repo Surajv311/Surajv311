@@ -4,7 +4,7 @@
 
 I'm currently pursuing my Bachelor's in Computer Science from VIT University, India (batch of 2023) 🎓. <br>
 Why Computer Science? Because it makes me realize, how little I know about this field & there's just so much to learn!.<br>
-**Currently**: Software Engineer Intern @ [Simpl Pay](https://getsimpl.com/). <br>
+**Experience**: Software Engineer Intern @ [Simpl Pay](https://getsimpl.com/). <br>
 And I love reading blogs on back-end engineering. <br>  
 
 - 😄 Pronouns: He/Him👨🏽.
