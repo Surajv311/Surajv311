@@ -39,7 +39,7 @@ And I love reading blogs on back-end engineering. <br>
 </details> -->
 
 <!-- ------------------------ -->
-
+<!-- 
 <details open>
   <summary>📈 <b>Github Stats</b>:</summary>
   
@@ -50,9 +50,9 @@ And I love reading blogs on back-end engineering. <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surajv311&theme=tokyonight&hide=css,html,ejs,java,Dockerfile&layout=">
   </p>
 
-</details>
+</details> -->
 
-----------------------------
+<!-- ---------------------------- -->
 
 <details open>
 <summary>☎️ <b>Get in touch?<b></summary>
@@ -94,9 +94,9 @@ And I love reading blogs on back-end engineering. <br>
 
 </td> -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/Surajv311/Surajv311?style=for-the-badge&color=orange)](https://github.com/Surajv311/Surajv311)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/Surajv311/Surajv311?style=for-the-badge&color=orange)](https://github.com/Surajv311/Surajv311) -->
 
-----------------------------
+<!-- ---------------------------- -->
 
 <!--
 **Surajv311/Surajv311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
