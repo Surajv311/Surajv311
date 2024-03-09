@@ -2,10 +2,10 @@
 
 ------------------------------
 
-I'm currently pursuing my Bachelor's in Computer Science from VIT University, India (batch of 2023) 🎓. <br>
+I'm currently working as a Software Engineer at [Simpl](https://getsimpl.com/). Prior to this I was working at [Amazon](https://www.amazon.in/). <br>
+I've completed my B.Tech in Computer Science from [VIT University](https://vit.ac.in/), India (batch of 2023) 🎓. <br>
 Why Computer Science? Because it makes me realize, there's just so much to learn!.<br>
-**Experience**: Software Engineer Intern @ [Simpl Pay](https://getsimpl.com/). <br>
-And I love reading blogs on back-end engineering. <br>  
+I love reading blogs on back-end & data engineering. <br>  
 
 - 😄 Pronouns: He/Him👨🏽.
 - ⚡ Fun fact: I watch anime. 
