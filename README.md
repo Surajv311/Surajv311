@@ -11,7 +11,6 @@ I love reading blogs on back-end & data engineering. <br>
 - ⚡ Fun fact: I watch anime. 
 - 👨🏾‍🏫 Check out my instructed course [**here**](https://www.udemy.com/course/numpyfords).
 - 🖊 Check my blogs at [**Hashnode**](https://surajv.hashnode.dev/) & [**Medium**](https://surajsv.medium.com/).
-- 🌐 Visit my portfolio [**here**](https://surajverma.netlify.app/).
 - 💬 AMA related to tech!😊.
 <!--
 - 📫 Email me -> [**here**](mailto:mail@mail.com).
