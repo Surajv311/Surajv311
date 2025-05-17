@@ -2,15 +2,11 @@
 
 ------------------------------
 
-I'm currently working as a Software Engineer at [Simpl](https://getsimpl.com/). Prior to this I was working at [Amazon](https://www.amazon.in/). <br>
-I've completed my B.Tech in Computer Science from [VIT University](https://vit.ac.in/), India (batch of 2023) 🎓. <br>
-Why Computer Science? Because it makes me realize, there's just so much to learn!.<br>
-I love reading blogs on back-end & data engineering. <br>  
+Software Engineer with interest and experience in handling data engineering & backend systems. 
 
 - 😄 Pronouns: He/Him👨🏽.
-- ⚡ Fun fact: I watch anime. 
-- 👨🏾‍🏫 Check out my instructed course [**here**](https://www.udemy.com/course/numpyfords).
-- 🖊 Check my blogs at [**Hashnode**](https://surajv.hashnode.dev/) & [**Medium**](https://surajsv.medium.com/).
+- ⚡ Fun fact: I love watching anime. 
+- 👨🏾‍🏫 Portfolio: [Link](https://surajv311.github.io/)
 - 💬 AMA related to tech!😊.
 <!--
 - 📫 Email me -> [**here**](mailto:mail@mail.com).
