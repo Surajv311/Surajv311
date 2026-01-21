@@ -2,7 +2,7 @@
 
 ------------------------------
 
-Software Engineer with interest and experience in handling data engineering & backend systems. 
+Software Engineer with interest and experience in handling backend & data engineering systems. 
 
 - 😄 Pronouns: He/Him👨🏽.
 - ⚡ Fun fact: I love watching anime. 
